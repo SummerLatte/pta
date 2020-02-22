@@ -3,3 +3,4 @@ test.cpp
 *.json
 *.out
 *.plist
+*.exe
